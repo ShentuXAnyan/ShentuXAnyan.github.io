@@ -1,16 +1,15 @@
 ---
 layout:     post                    # 使用的布局（不需要改）
-title:      【黄泉手记x勇漫】｛荼岩｝偷弟弟        # 标题 
+title:      黄泉手记x勇漫 荼岩-偷弟弟        # 标题 
 subtitle:   Hello World, Hello Blog #副标题
 date:       2017-02-06              # 时间
-author:     BY                      # 作者
+author:     BY AKIRA熙                    # 作者
 #header-img: img/post-bg-2015.jpg    #这篇文章标题背景图片
 catalog: true                       # 是否归档
 tags:                               #标签
     - 生活
 ---
 
-##【黄泉手记x勇漫】｛荼岩｝偷弟弟
 
 最近在追三叔新故事，主角太逗了，一见逗比负一生的我，暗搓搓的摸了第一人称的鱼。
 设定是安份安岩神荼，都不知道除了自己之外的那俩人啥关系。这个原著还没写到，将来打脸我就偷偷删掉
