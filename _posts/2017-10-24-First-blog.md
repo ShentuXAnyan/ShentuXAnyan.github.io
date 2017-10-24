@@ -5,9 +5,8 @@ subtitle:   Hello World, Hello Blog #副标题
 date:       2017-02-06              # 时间
 author:     BY AKIRA熙                    # 作者
 #header-img: img/post-bg-2015.jpg    #这篇文章标题背景图片
-catalog: true                       # 是否归档
-tags:                               #标签
-    - 荼岩
+catalog:    true                       # 是否归档
+tags:       荼岩
 ---
 
 
