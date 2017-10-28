@@ -27,7 +27,7 @@ type: page
 20岁的大四学生安岩，偶遇馗道高手神荼，原本科学的生活节奏瞬间被打破，死而复生，借尸还魂……各种谜团接踵而来，还有神秘组织的相助。也许，更大的考验还在后面。
 
 
-### 主要人物
+### 人物介绍
 
 ![](https://gss2.bdstatic.com/-fo3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike80%2C5%2C5%2C80%2C26/sign=099c0379741ed21b6dc426b7cc07b6a1/472309f790529822fc06ab48deca7bcb0a46d400.jpg)
 
@@ -81,7 +81,6 @@ T.H.A非正式成员，幼时曾居于巴黎，家庭遭帝国余晖破坏后一
 
 bilibili
 [第一季](https://bangumi.bilibili.com/anime/2542) [第二季](https://bangumi.bilibili.com/anime/3506) [番外篇](https://bangumi.bilibili.com/anime/4585)
-
 
 ### 勇者大冒险漫画
 
