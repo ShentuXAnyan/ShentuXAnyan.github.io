@@ -6,5 +6,4 @@ icon: bookmark
 type: page
 ---
 
-* content {:toc}
 
