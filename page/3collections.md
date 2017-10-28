@@ -79,8 +79,8 @@ T.H.A非正式成员，幼时曾居于巴黎，家庭遭帝国余晖破坏后一
 腾讯动漫
 [第一季](https://v.qq.com/x/cover/tjcnpm8ju18qojf/e0016gfk2qy.html?)  [第二季](http://v.qq.com/detail/q/qkqu2uoheupjd48.html)
 
-
-[bilibili](https://bangumi.bilibili.com/anime/2542)
+bilibili
+[第一季](https://bangumi.bilibili.com/anime/2542) [第二季](https://bangumi.bilibili.com/anime/3506) [番外篇](https://bangumi.bilibili.com/anime/4585)
 
 
 ### 勇者大冒险漫画
