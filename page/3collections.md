@@ -70,3 +70,27 @@ T.H.A非正式成员，幼时曾居于巴黎，家庭遭帝国余晖破坏后一
 
 
 ---- 以上资料来源百度百科
+
+
+## 资源链接
+
+### 动画观看地址
+
+腾讯动漫
+
+[第一季](https://v.qq.com/x/cover/tjcnpm8ju18qojf/e0016gfk2qy.html?)
+
+[第二季](http://v.qq.com/detail/q/qkqu2uoheupjd48.html)
+
+
+[bilibili](https://bangumi.bilibili.com/anime/2542)
+
+
+### 勇者大冒险漫画
+
+[在线漫画](http://ac.qq.com/Comic/comicInfo/id/536716/)
+
+### 勇者大冒险小说-黄泉手记
+
+[勇者大冒险黄泉手记](https://book.qidian.com/info/3631210)
+
