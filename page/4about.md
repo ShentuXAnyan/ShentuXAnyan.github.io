@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: 关于本小站
+permalink: /关于本小站/
 icon: heart
 type: page
 ---
@@ -9,5 +9,4 @@ type: page
 * content
 {:toc}
 
-## 关于我
 
